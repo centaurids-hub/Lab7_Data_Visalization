@@ -10,7 +10,7 @@
 ## 📂 Branch Info
 
 **Branch:** `data-v`  
-**Repository:** ComProg-1 Python  
+**Repository:** Lab7_Data_Visualization
 **Topic:** Data Visualization Practice using Personal Spotify Data  
 
 ---
