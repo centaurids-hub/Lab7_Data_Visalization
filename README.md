@@ -10,7 +10,9 @@
 ## 📂 Branch Info
 
 **Branch:** `data-v`  
+
 **Repository:** Lab7_Data_Visualization
+
 **Topic:** Data Visualization Practice using Personal Spotify Data  
 
 ---
