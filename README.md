@@ -1,8 +1,11 @@
 # ComProg-1 Python Lab 7: Data Visualization
 
 **Student:** Jesier Cresencio
+
 **ID:** TUP-25-2043
+
 **Section:** 1C
+
 **Instructor:** Engr. Gilfred Allen M. Madrigal
 
 ---
