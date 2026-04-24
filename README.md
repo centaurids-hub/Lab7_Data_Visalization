@@ -13,6 +13,7 @@
 ## 📝 AI Disclosure
 
 **Laboratory Activity:** Computer Programming (Data Visualization)
+
 **Institution:** Technological University of the Philippines – Manila
 
 **Declaration:**
